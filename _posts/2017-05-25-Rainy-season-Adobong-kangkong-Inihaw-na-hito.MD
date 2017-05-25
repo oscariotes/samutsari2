@@ -18,16 +18,16 @@ He understood that I panicked and said that the method was dangerous. What we di
  
 **Adobong Kangkong**
  
-1 bunch kangkong
-1 tablespoon oil
-1 medium onion, diced
-3 to 5 cloves garlic, minced
-¼ pound pork (optional)
-Tokwa, 3 pcs. (optional)
-½ cup vinegar
-¼ cup soy sauce
-½ cup water
-pepper to taste
+* 1 bunch kangkong
+* 1 tablespoon oil
+* 1 medium onion, diced
+* 3 to 5 cloves garlic, minced
+* ¼ pound pork (optional)
+* Tokwa, 3 pcs. (optional)
+* ½ cup vinegar
+* ¼ cup soy sauce
+* ½ cup water
+* pepper to taste
 
 **INSTRUCTIONS**
 1. Trim the kangkong stalks and discard. Cut kangkong into pieces lengths, separating the sturdier stalks from the leaves. Wash thoroughly.
