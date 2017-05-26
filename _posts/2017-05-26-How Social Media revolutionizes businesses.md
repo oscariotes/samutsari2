@@ -1,5 +1,5 @@
 ---
-title: "How Social Media revolutionizes businesses."
+title: "How Social Media Revolutionizes Businesses"
 excerpt: "Social Media revolutionizes the way we live our everyday lives. It's hard to imagine living without it for most people. Large corporation or small start up companies are investing to make their online presence available in various social media platforms. As an entrepreneur who hasn't started promoting your business to social media - here are some basic tips that may help."
 ---
  
