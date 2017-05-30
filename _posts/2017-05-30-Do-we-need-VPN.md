@@ -29,7 +29,7 @@ Slow and grinding connection. You might have excellent internet service and all 
  
 **Conclusion:**
  
-Well VPN is not for everyone. If you find no reason to hide your online activities then no need for you to add additional burden to your bandwidth. Primarily if your main concern is accessing it for work or security then you should choose one provider that will suit your needs. I have bee using a VPN software called [Sofether](https://www.softether.org/) to access my work computer whenever I am. It’s an open source and free for everyone to use. It has a feature to access your work or home computer network even without configuring your own router. Perhaps I can further discuss in detail how this software works in the future.
+Well VPN is not for everyone. If you find no reason to hide your online activities then no need for you to add additional burden to your bandwidth. Primarily if your main concern is accessing it for work or security then you should choose one provider that will suit your needs. I have bee using a VPN software called [Sofether](https://www.softether.org/) to access my work computer whenever I am away. It’s an open source and free for everyone to use. It has a feature to connect your work or home network even without configuring your own router. Perhaps I can further discuss in detail how this software works in the future.
  
  
  
