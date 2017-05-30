@@ -17,7 +17,7 @@ As mentioned , you can create a private session between you and your work networ
  
 **Access to blocked content.** There are  lots of services like media streaming that can't or won't let you use them if you're not located in that particular country. We see this a lot like Netflix, news or sports channel blocking your access because of your area or country.
  
-**Security** Although  VPN is not an all in one solution, but using one with encrypted connections from a reputable company creates what's called a tunnel that acts as a one-layer connection between you and your online activities. This makes tracking difficult to  anyone or any service except the VPN server provider itself. This can be prevented if you will create the server itself. People like journalists or activist can see or say things in private. And so can everyone else. Privacy is not limited for the select few.this can be exploited by people with bad intentions, they can use a VPN to have the same privacy and security. 
+**Security.** Although  VPN is not an all in one solution, but using one with encrypted connections from a reputable company creates what's called a tunnel that acts as a one-layer connection between you and your online activities. This makes tracking difficult to  anyone or any service except the VPN server provider itself. This can be prevented if you will create the server itself. People like journalists or activist can see or say things in private. And so can everyone else. Privacy is not limited for the select few.this can be exploited by people with bad intentions, they can use a VPN to have the same privacy and security. 
  
 **Issues using VPN**
 
