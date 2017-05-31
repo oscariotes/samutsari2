@@ -201,6 +201,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-paginate
+  jekyll-sitemap
   jekyll-theme-basically-basic
 
 BUNDLED WITH
