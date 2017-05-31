@@ -1,8 +1,5 @@
 ---
 title: "Essential phone will challenge iPhone's dominance"
-
-sitemap:
-     exclude: 'yes'
 ---
  
 ![center-aligned-image](/assets/images/essential1.jpg){: .align-center} 
