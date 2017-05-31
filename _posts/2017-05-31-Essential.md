@@ -1,11 +1,12 @@
 ---
 title: "Essential phone will challenge iPhone's dominance"
+excerpt: It's now official, Andy Rubin android’s creator released the [Essential phone](https://www.essential.com/). With the specs shown down below, will this be enough to topple all competitors? Priced around $750. If this will be a hit, can they supply the demand? 
 ---
  
 ![center-aligned-image](/assets/images/essential1.jpg){: .align-center} 
  Photo credit: Essential Phone
  
-It's now official, Andy Rubin android’s creator released the [Essential phone](https://www.essential.com/). With the specs shown down below, will this be enough to topple all competitors? Priced around $750. If this will be a hit, can they supply the demand? 
+
   
 
 
