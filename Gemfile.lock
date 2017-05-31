@@ -119,6 +119,12 @@ GEM
     jekyll-swiss (0.4.0)
     jekyll-theme-architect (0.0.4)
       jekyll (~> 3.3)
+    jekyll-theme-basically-basic (1.1.0)
+      jekyll (~> 3.3)
+      jekyll-feed (~> 0.8)
+      jekyll-paginate (~> 1.1)
+      jekyll-seo-tag (~> 2.1)
+      jekyll-sitemap (~> 1.0)
     jekyll-theme-cayman (0.0.4)
       jekyll (~> 3.3)
     jekyll-theme-dinky (0.0.4)
@@ -195,6 +201,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-paginate
+  jekyll-theme-basically-basic
 
 BUNDLED WITH
    1.15.0
