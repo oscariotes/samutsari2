@@ -1,5 +1,11 @@
 ---
-layout: home
-image:
-  path: /assets/images/sunrise.jpg
+layout: archive
+permalink: /
+title: "Latest Posts"
 ---
+
+<div class="tiles">
+{% for post in site.posts %}
+	{% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->
