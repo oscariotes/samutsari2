@@ -1,5 +1,5 @@
 ---
 layout: home
 image:
-  path: /assets/images/sunrise.jpg
+  path: /assets/images/housekey.jpeg
 ---
