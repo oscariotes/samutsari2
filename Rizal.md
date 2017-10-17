@@ -14,8 +14,11 @@ Listing for Samutsari!
 
 
 
+
+
+
 ### Brand new house and lot available for you and your family. Very good location best for first time home owners or as an Investment property. Near Public Market, Hospitals, Churches and Public Schools. Just 18 minutes ride fom Shopwise Antipolo. This subdivision is very accessible. Hindi na po kayo kelangan sumakay ng tricycle papasok sa location.
 
-![]({{site.baseurl}}///assets/images/Front.jpg))
+
 
 
