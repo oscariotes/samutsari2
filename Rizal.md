@@ -9,7 +9,7 @@ Listing for Samutsari!
  This page contains listings mostly in Rizal area. Other areas outside Rizal will soon to follow.
  
  
- 
+  ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/Front.jpg){: .align-center}
  
  
  
