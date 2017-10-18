@@ -19,9 +19,15 @@ Listing for Samutsari!
 
 
  
-  ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/Front.jpg){: .align-center}  ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/Front2.jpg){: .align-center}
   
-  ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/front3.jpg){: .align-center}    ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/image1.jpg){: .align-center}
+  ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/Front.jpg)| {: .align-center}  ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/Front2.jpg){: .align-center}
+  :------------------------------------------------------------------------:|:-----------------------------------:
+  
+  
+  ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/front3.jpg)}|   {: .align-center}    ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/image1.jpg){: .align-center}
+  :-----------------------------------------------------------------:| :---------------------------------:
+  
+
 
 
 
@@ -48,4 +54,3 @@ Specifications:
 - Larry Suco
 - 63 920 995 1467
 - email: larrysuico2@gmail.com
-
