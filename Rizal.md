@@ -10,7 +10,11 @@ Listing for Samutsari!
  
  
   ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/Front.jpg){: .align-center}
- ![]({{site.baseurl}}/https://lh5.googleusercontent.com/qY2vWkJPopsbZrXE0WQqedsq_stuHnuCOZUw_mZBDp1A9N_5DTE3XKOhANTR)
+  ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/Front2.jpg){: .align-center}
+  ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/front3.jpg){: .align-center}
+  ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/image1.jpg){: .align-center}
+
+ 
  
  
  
