@@ -15,7 +15,7 @@ Listing for Samutsari!
  
  
  
-## Affordable House and lot in Rizal 3 bes and 2 baths, accessible via main highway
+## Affordable House and lot in Rizal 3 beds and 2 baths, accessible via main highway
 
 
 
