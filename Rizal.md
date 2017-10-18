@@ -26,17 +26,19 @@ Brand new house and lot available for you and your family. Very good location be
 
 Specifications: 
 
-Lot Area: 40 sqm
-Floor Area 46 sqm
-Room: 3
-Bath: 1
+- Lot Area: 40 sqm
+- Floor Area 46 sqm
+- Room: 3
+- Bath: 1
 
-TCP: 917,427.00
-DP: Payable in 18 Mos 9,776.00
-Mothly Amortization : @ 15 years 9,286
 
-Please Contact :
+- TCP: 917,427.00
+- DP: Payable in 18 Mos 9,776.00
+- Mothly Amortization : @ 15 years 9,286
+- 
+- Please Contact :
+- 
+- Larry Suco
+- 63 920 995 1467
+- email: larrysuico2@gmail.com
 
-Larry Suco
-+63 920 995 1467
-email: larrysuico2@gmail.com
