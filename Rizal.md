@@ -20,7 +20,7 @@ Listing for Samutsari!
 
  
   
-  ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/Front.jpg) {: .align-center}  
+  ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/Front.jpg){: .align-center}
   ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/Front2.jpg){: .align-center}
   
   
