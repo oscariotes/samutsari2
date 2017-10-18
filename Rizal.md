@@ -51,6 +51,6 @@ Specifications:
 - 
 - Please Contact :
 - 
-- Larry Suco
+- Larry Suico
 - 63 920 995 1467
 - email: larrysuico2@gmail.com
