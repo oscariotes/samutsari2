@@ -8,11 +8,7 @@ Listing for Samutsari!
 
  This page contains listings mostly in Rizal area. Other areas outside Rizal will soon to follow.
  
- 
-  ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/Front.jpg){: .align-center}
-  ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/Front2.jpg){: .align-center}
-  ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/front3.jpg){: .align-center}
-  ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/image1.jpg){: .align-center}
+
 
  
  
@@ -20,6 +16,13 @@ Listing for Samutsari!
  
  
 ## Affordable House and lot in Rizal 3 beds and 2 baths, accessible via main highway
+
+
+ 
+  ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/Front.jpg){: .align-center}
+  ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/Front2.jpg){: .align-center}
+  ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/front3.jpg){: .align-center}
+  ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/image1.jpg){: .align-center}
 
 
 
